@@ -1,0 +1,10 @@
+java temurin-25.0.4+101.0.LTS
+gradle 9.7.1
+cabal 3.16.1.0
+ghc 9.10.3
+dotnet 10.0.400
+rebar 3.27.0
+erlang 29.0.6
+elixir 1.20.4-otp-29
+golang 1.27.1
+ocaml 5.5.1
