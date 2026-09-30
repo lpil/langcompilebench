@@ -1,4 +1,5 @@
 #!/bin/sh
 set -eu
 
-time gradle clean compileJava
+gradle clean
+time gradle compileJava

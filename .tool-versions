@@ -8,3 +8,5 @@ erlang 29.0.6
 elixir 1.20.4-otp-29
 golang 1.27.1
 ocaml 5.5.1
+gleam 1.18.0
+elm 0.19.2
