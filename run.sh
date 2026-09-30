@@ -20,6 +20,8 @@ while [ "$i" -le 11 ]; do
   times=$times'
 '"$time"
   i=$((i + 1))
+
+  sleep 2
 done
 
 printf '%s\n' "$times" | sort -n | sed -n '6p'

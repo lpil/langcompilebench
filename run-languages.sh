@@ -32,8 +32,6 @@ for dir in benchmark_*; do
 '"$row"
 
   done
-
-  sleep 10
 done
 
 printf "%s\n" "$table" | column -t -s '|'
