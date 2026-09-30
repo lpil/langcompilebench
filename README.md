@@ -20,8 +20,8 @@ Median of 11 runs.
 | Go                       | 0.195   |
 | Java                     | 0.463   |
 | Rust                     | 0.733   |
-| Typescript 6             | 1.412   |
-| Typescript 7             | 0.965   |
+| TypeScript 6             | 1.412   |
+| TypeScript 7             | 0.965   |
 
 Versions: Java temurin-25.0.4+101.0.LTS, Gradle 9.7.1, Cabal 3.16.1.0, Ghc
 9.10.3, Dotnet 10.0.400, Rebar 3.27.0, Erlang 29.0.6, Elixir 1.20.4-otp-29, Go
